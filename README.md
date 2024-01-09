@@ -1,5 +1,5 @@
 # Sobre mim:
-### Olá. Sou o João Basílio, estudante de engenharia da computação na Faculdade Impacta Tecnologia e apaixonado por hardware, matemática e programação. Possuo experiência em manutenção de aparelhos eletrônicos em geral e atualmente estudo sobre inteligência artificial e sistemas embarcados para ajudar criar um futuro melhor para todos.
+### Olá. Sou o João Basílio, estudante de engenharia da computação na Faculdade Impacta Tecnologia e apaixonado por hardware, matemática e programação. Possuo experiência em manutenção de aparelhos eletrônicos em geral e atualmente estudo sobre inteligência artificial e sistemas embarcados para ajudar a criar um futuro melhor para todos.
 
 # Redes Sociais
 
